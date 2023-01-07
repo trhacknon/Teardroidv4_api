@@ -44,7 +44,7 @@ async def add_client(client: client, Authorize: AuthJWT = Depends()):
         {
             "success": True,
             "token": access_token,
-            "message": "login successfully",
+            "message": "Welcome Trhacknon",
         }
     )
 
